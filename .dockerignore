@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.db
+*.DS_Store
+.env
+venv/
+data/billing/     # can include because I don’t want to include local CSV output in the image
